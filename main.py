@@ -1,4 +1,4 @@
-import cv2
+import cv3
 from random import randrange
 data = cv2.CascadeClassifier('D:/opencv/R/xml/haarcascade_frontalface_default.xml')
 # the source is the webcam
